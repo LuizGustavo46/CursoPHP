@@ -1,6 +1,6 @@
 <?php
 
-echo "Versão : ".phpversion();
+echo "HELLOO";
 
 
 ?>
